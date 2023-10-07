@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    margin: auto;
+}
+
+li {
+    padding: 0;
+    text-align: justify;
+}
+
+.main-li {
+    margin: 15px 0px;
+}
+
+.main-li-parents {
+    margin: 0px 0px;
+    
+}
+p {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.sub {
+    margin-left: 1.5%;
+}
